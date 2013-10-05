@@ -1,2 +1,8 @@
 Library
 Library/*
+/Temp
+/obj
+/library
+*.csproj
+*.unityproj
+*.sln
