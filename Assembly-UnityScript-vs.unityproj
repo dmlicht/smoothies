@@ -44,8 +44,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FruitCounter.js" />
      <Compile Include="Assets\Scripts\PlayerController.js" />
      <Compile Include="Assets\Scripts\collision.js" />
+     <Compile Include="Assets\Scripts\creditsControl.js" />
+     <Compile Include="Assets\Scripts\settingsControl.js" />
+     <Compile Include="Assets\Scripts\startControl.js" />
+     <Compile Include="Assets\soundplay.js" />
+     <Compile Include="Assets\winconditions.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
